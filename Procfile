@@ -1,1 +1,1 @@
-web: gunicorn fosterfarm.wsgi —log-file -
+web: gunicorn fosterfarm.wsgi --log-file -
